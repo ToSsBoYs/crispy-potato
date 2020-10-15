@@ -1,6 +1,6 @@
 <?php
 
-namespace ToData\Data;
+namespace Potato\Data;
 /**
  * Created by PhpStorm.
  * User: tossboy

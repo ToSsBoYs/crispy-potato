@@ -25,8 +25,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Toss\\": "src",
-            "ToData\\": "src/Data"
+            "Potato\\": "src"
         }
     }
 }

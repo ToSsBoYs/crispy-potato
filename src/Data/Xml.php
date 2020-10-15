@@ -6,7 +6,7 @@
  * Time: 13:56
  */
 
-namespace Data;
+namespace Potato\Data;
 
 
 class Xml
