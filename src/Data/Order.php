@@ -1,6 +1,6 @@
 <?php
 
-namespace Data;
+namespace Toss\Data;
 /**
  * Created by PhpStorm.
  * User: tossboy
