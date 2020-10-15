@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Toss\\": "src"
+            "Potato\\": "src"
         }
     },
     "autoload-dev": {
