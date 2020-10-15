@@ -1,6 +1,7 @@
 {
     "name": "tossboy/crispy-potato",
     "description": "脆土豆",
+    "keywords": ["yii2","thinkphp5","discern","extension"],
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
