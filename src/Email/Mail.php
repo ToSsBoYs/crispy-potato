@@ -11,7 +11,7 @@
  * 其他方法参看此链接http://www.ghacks.net/2014/07/21/gmail-starts-block-less-secure-apps-enable-access/
  */
 
-namespace Email;
+namespace Potato\Email;
 
 use PHPMailer;
 class Mail
